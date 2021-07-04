@@ -4,3 +4,13 @@ body{
 h1{
     font-size: 40px;
 }
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
