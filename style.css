@@ -36,3 +36,36 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.middale{
+    text-align: center;
+    color: #8ef851;
+}
+.Exparenc{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.flix{
+    display: flex;
+    margin-bottom: 0;
+}
+.exparence{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 80px gray;
+    }
+    #baby-wab{
+        border-left: 6px solid;
+        border-image:linear-gradient(blue, cyan);
+        border-image-slice: 1;
+    }
+    #full-stack{
+        border-left: 6px solid;
+        border-image:linear-gradient(red, tomato);
+        border-image-slice: 1;
+    }
+    footer p{
+        text-align: center;
+    }
